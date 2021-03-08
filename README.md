@@ -1,3 +1,3 @@
 # Challenges
-Competitions or challenges
+Competitions or challenges \n 
 link to the heroku deployment : https://classification-prediction.herokuapp.com/
